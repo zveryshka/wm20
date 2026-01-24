@@ -1,0 +1,21 @@
+{
+  "name": "wm20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zveryshka/wm20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zveryshka/wm20/issues"
+  },
+  "homepage": "https://github.com/zveryshka/wm20#readme"
+}
